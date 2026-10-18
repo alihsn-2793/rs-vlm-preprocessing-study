@@ -1,0 +1,5 @@
+bucket,original,noisy,noisy_denoised,blurred,blurred_sharpened,lowcon,lowcon_enhanced
+0,0.2,0.0,0.0,0.3,0.2,0.2,0.2
+1-2,0.1,0.3,0.2,0.1,0.1,0.1,0.1
+3-5,0.6,0.8,1.0,0.6,0.8,0.7,0.9
+6+,1.833,1.833,2.333,1.5,1.5,1.833,1.833

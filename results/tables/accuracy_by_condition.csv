@@ -1,0 +1,15 @@
+qtype,condition,n,accuracy,within1,invalid_rate,mean_seconds
+count,original,36,0.722,0.833,0.0,3.779
+count,noisy,36,0.639,0.833,0.0,4.068
+count,noisy_denoised,36,0.639,0.778,0.0,3.883
+count,blurred,36,0.75,0.833,0.0,3.751
+count,blurred_sharpened,36,0.75,0.833,0.0,3.751
+count,lowcon,36,0.639,0.889,0.0,3.796
+count,lowcon_enhanced,36,0.639,0.833,0.0,3.96
+presence,original,36,0.972,,0.0,128.588
+presence,noisy,36,0.972,,0.0,125.187
+presence,noisy_denoised,36,0.972,,0.0,124.213
+presence,blurred,36,0.944,,0.0,122.65
+presence,blurred_sharpened,36,0.944,,0.0,122.6
+presence,lowcon,36,1.0,,0.0,126.638
+presence,lowcon_enhanced,36,0.972,,0.0,184.286

@@ -1,0 +1,8 @@
+condition,n,exact,MAE,median_abs_error,mean_signed_error,undercount_share,overcount_share
+original,36,0.722,0.556,0.0,-0.222,0.167,0.111
+noisy,36,0.639,0.611,0.0,-0.056,0.167,0.194
+noisy_denoised,36,0.639,0.722,0.0,-0.111,0.167,0.194
+blurred,36,0.75,0.528,0.0,-0.139,0.139,0.111
+blurred_sharpened,36,0.75,0.556,0.0,-0.111,0.139,0.111
+lowcon,36,0.639,0.583,0.0,-0.194,0.194,0.167
+lowcon_enhanced,36,0.639,0.639,0.0,-0.194,0.194,0.167

@@ -1,0 +1,7 @@
+pair,qtype,n,mean_dSSIM,mean_dPSNR,mean_dCorrect,spearman_rho,spearman_p,ssim_up_n,ssim_up_answer_worse,ssim_up_answer_better
+noisy->noisy_denoised,presence,36,0.472,8.63,0.0,,,36,0,0
+noisy->noisy_denoised,count,36,0.472,8.63,0.0,-0.098,0.5686,36,3,3
+blurred->blurred_sharpened,presence,36,0.024,1.75,0.0,,,33,0,0
+blurred->blurred_sharpened,count,36,0.024,1.75,0.0,0.102,0.5534,33,1,1
+lowcon->lowcon_enhanced,presence,36,0.038,3.84,-0.028,0.171,0.3191,34,1,0
+lowcon->lowcon_enhanced,count,36,0.038,3.84,0.0,,,34,0,0

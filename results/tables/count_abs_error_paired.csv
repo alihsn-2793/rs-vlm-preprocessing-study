@@ -1,0 +1,7 @@
+a,b,n,mae_a,mae_b,diff_mae,ci_low,ci_high,tiles_worse,tiles_better,p_wilcoxon,kind
+original,noisy,36,0.556,0.611,0.056,-0.194,0.306,6,5,0.6418,damage
+original,blurred,36,0.556,0.528,-0.028,-0.139,0.083,2,3,0.6547,damage
+original,lowcon,36,0.556,0.583,0.028,-0.083,0.139,3,2,0.6547,damage
+noisy,noisy_denoised,36,0.611,0.722,0.111,-0.083,0.306,5,3,0.2714,fix
+blurred,blurred_sharpened,36,0.528,0.556,0.028,-0.083,0.111,2,1,0.5637,fix
+lowcon,lowcon_enhanced,36,0.583,0.639,0.056,0.0,0.139,2,0,0.1573,fix
